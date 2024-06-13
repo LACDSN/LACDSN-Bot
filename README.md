@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="docs/resources/tux.gif" width=128 height=128></img>
+    <img src="docs/resources/larotate.gif" width=128 height=256></img>
     <h1>Tux</h1>
     <h3><b>A Discord bot for the All Things Linux Discord server</b></h3>
 </div>
