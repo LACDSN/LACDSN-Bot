@@ -14,12 +14,12 @@
             <img alt="Issues" src="https://img.shields.io/github/issues/allthingslinux/tux?style=for-the-badge&logo=githubactions&color=F9E2AF&logoColor=F9E2AF&labelColor=302D41"></a>
         <a href="https://opensource.org/license/unlicense/">
             <img alt="License" src="https://img.shields.io/github/license/allthingslinux/tux?style=for-the-badge&logo=gitbook&color=A6E3A1&logoColor=A6E3A1&labelColor=302D41"></a>
-        <a href="https://discord.gg/linux">
+        <a href="https://discord.gg/lacommunity">
             <img alt="Discord" src="https://img.shields.io/discord/1172245377395728464?style=for-the-badge&logo=discord&color=B4BEFE&logoColor=B4BEFE&labelColor=302D41"></a>
     </p>
 </div>
 
-# NOTE: This bot (without plenty of tweaking) is not ready for multi-server use, we recommend against using it until it is more complete
+# NOTE: This bot is OSS, forked From attthingslinux/tux [ATL](https://discord.gg/linux) but has been heavily modified so that it can be used to help in the [LACDSN](https://discord.gg/lacommunity) (Los Angeles Community Discord Server Network) in the same way that it has helped the ALT Server. We are also working with [Wick](https://wick.bot) so that we can have the bots work together in the Servers, rather than against each other.
 
 ## About
 
@@ -36,7 +36,7 @@ Tux is a Discord bot for the All Things Linux Discord server. It is designed to 
 1. Clone the repository
    
    ```bash
-   git clone https://github.com/allthingslinux/tux && cd tux
+   gh repo clone lacdsn/lacdsn-bot && cd lacdsn-bot
    ```
 2. Install the dependencies
     ```bash
